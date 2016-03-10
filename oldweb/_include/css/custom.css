@@ -1,0 +1,43 @@
+/*
+Enter Here your Custom CSS Style!!
+*/
+.color-badge
+{
+	color:white;
+	background-color:#2980b9;
+}
+
+.media-popup-link
+{
+	color:#2980b9;
+}
+
+.media-popup-link:hover
+{
+	color:white;
+}
+
+.media-popup-link-wh:hover
+{
+	color:white;
+}
+
+#my-img
+{
+	/*width:48%;*/
+}
+
+
+#latest-work-experience {
+	position: relative;
+	background-color: #E9F0F4;
+	padding: 80px 0 90px;
+}
+
+#latest-work-experience h4 {
+	font-size: 14px;
+	font-weight: 700;
+	margin: 0 0 40px;
+	text-transform: uppercase;
+	text-align: center
+}
